@@ -1,4 +1,4 @@
-<?php include('m_header.php'); ?>
+<?php include('deps/m_header.php'); ?>
       <h2>Is your AP Language course authorized for 2016-17?</h2>
       <p>
          Yes, you can find the College Board authorization letter <a href="APLang/16-17 AP Lang Authorization.pdf">here.
