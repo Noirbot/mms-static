@@ -1,5 +1,5 @@
 <?php include('deps/m_header.php'); ?>
-            <h1>Contemporary Literature &amp; Composition </h1>
+            <h1>Multicultural Literature &amp; Composition </h1>
             <ul>
               <li> Combination of writing, literature, and speech</li>
 			  <li> On-your-feet practical learning, interaction in each class</li>

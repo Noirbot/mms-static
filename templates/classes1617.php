@@ -27,15 +27,15 @@
   </tr>
   <tr>
     <td><span style="font-size:18px;">9:00</span></td>
-    <td><a href="classes1617.html#LitComp"><span style="font-size:18px;">Contemp Lit</span></a></td>
+    <td><a href="classes1617.html#LitComp"><span style="font-size:18px;">Multicultural Lit</span></a></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td><span style="font-size:18px;">10:45</span></td>
-    <td><span style="font-size:18px;"><a href="classes1617.html#APLang">AP Lang</a></span></td>
-    <td><span style="font-size:18px;"><a href="classes1617.html#BL">Brit Lit</a></span></td>
-    <td><span style="font-size:18px;"><a href="classes1617.html#LitComp">Contemp Lit</a></span></td>
+    <td><span style="font-size:18px;"><a href="classes1617.html#APLang">AP Language</a></span></td>
+    <td><span style="font-size:18px;"><a href="classes1617.html#BL">British Lit</a></span></td>
+    <td><span style="font-size:18px;"><a href="classes1617.html#LitComp">Multicultural Lit</a></span></td>
   </tr>
   <tr>
     <td><span style="font-size:18px;">12:15</span></td>
@@ -45,15 +45,15 @@
   </tr>
   <tr>
     <td><span style="font-size:18px;">12:45</span></td>
-    <td><span style="font-size:18px;"><a href="classes1617.html#APLang">AP Lang</a>, cont.</span></td>
-    <td><span style="font-size:18px;"><a href="classes1617.html#BL">Brit Lit</a>, cont.</span></td>
-    <td><span style="font-size:18px;"><a href="classes1617.html#APLang">AP Lang</a></span></td>
+    <td><span style="font-size:18px;"><a href="classes1617.html#APLang">AP Language</a>, cont.</span></td>
+    <td><span style="font-size:18px;"><a href="classes1617.html#BL">British Lit</a>, cont.</span></td>
+    <td><span style="font-size:18px;"><a href="classes1617.html#APLang">AP Language</a></span></td>
   </tr>
   <tr>
     <td><span style="font-size:18px;">2:30</span></td>
     <td></td>
-    <td><a href="classes1617.html#LitComp"><span style="font-size:18px;">Contemp Lit</span></a></td>
-    <td><span style="font-size:18px;"><a href="classes1617.html#APLang">AP Lang</a>, cont.</span></td>
+    <td><a href="classes1617.html#LitComp"><span style="font-size:18px;">Multicultural Lit</span></a></td>
+    <td><span style="font-size:18px;"><a href="classes1617.html#APLang">AP Language</a>, cont.</span></td>
   </tr>
 </table>
 

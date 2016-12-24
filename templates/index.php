@@ -24,7 +24,7 @@
 
 		<table align="center" border="0">
 			<tr>
-			<td align="center"> <a href="LitComp_class.html"><h2>Contemporary Lit &amp; Comp</h2></a></td>
+			<td align="center"> <a href="LitComp_class.html"><h2>Multicultural Lit &amp; Comp</h2></a></td>
 			<td align="center"> <a href="BritLit_class.html"><h2>British Literature </h2> </a></td>
 			<td align="center"> <a href="APLit_class.html"><h2>AP Literature</h2></a></td>
 			<td align="center"> <a href="APLang_class.html"><h2>AP Language</h2></a></td>

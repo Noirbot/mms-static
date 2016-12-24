@@ -1,9 +1,9 @@
        <div class="ourprojectrow">
-            <h6>Contemporary Literature and Composition (CL)</h6>
+            <h6>Multicultural Literature and Composition (ML)</h6>
             <div> <img src="pictures/LC3boys.jpg" alt="" width="300" height="225" class="project-img" />
 			<p>Grades: 9-12</p> <br />
 			<p>One core credit </p> <br />
-			<p>DOE course codes: 23.06100, 23.06200, 23.06600* </p>
+			<p>DOE course codes: 23.06100, 23.06200, 23.06700* </p>
 			<p>One 90-minute class per week </p>
 
 			<p>This is an active class that takes place in an encouraging environment. The skills of literary analysis, writing, and speech are taught simultaneously since much of the structure and style of oral and written communication are complementary. </p>
@@ -14,7 +14,7 @@
 			<p>The <b><i>composition</i></b> aspect of the course covers organization and editing skills needed for the "new" ACT and SAT essays, college/scholarship applications, business letters, discussion/exam-style essays, speaker analyses, article responses, resumes, and other practical writing. Targeted grammar study is included in editing workshops, useful for those who have a mind for grammar and/or those with an ear for error correction. Teacher feedback in writing and speaking focuses on encouragement and "next steps" rather than punitive or negative assessment. Having said that, there is accountability for each student to grow and work toward his or her writing being able to match up with standard written English. Students often turn in writing assignments during the week via email, making this a part-online/part-classroom experience. Students practice meeting deadlines and assignment details, with penalties (and rewards!) increasing over the semesters. Graded work is promptly sent home for parent perusal. Spring projects include an MLA-style research paper on a career chosen by the student and a formal, persuasive speech.
 			</p>
 
-			<p>The <b><i>oral communication</i></b> aspect of CL starts with non-intimidating assignments in order for students to build basic communication skills with a group, and comfort for themselves. The class progresses through stages until basic solo speeches found in Speech 101 in most universities are presented, and life skills such as persuasive speaking and communicating in group settings are practiced. We also practice job interview skills, non-verbal communication, small group consensus, and impromptu speaking. Students practice design and use of various visual aids such as PowerPoint, posters, white board, and demonstration tools.</p>
+			<p>The <b><i>oral communication</i></b> aspect of ML starts with non-intimidating assignments in order for students to build basic communication skills with a group, and comfort for themselves. The class progresses through stages until basic solo speeches found in Speech 101 in most universities are presented, and life skills such as persuasive speaking and communicating in group settings are practiced. We also practice job interview skills, non-verbal communication, small group consensus, and impromptu speaking. Students practice design and use of various visual aids such as PowerPoint, posters, white board, and demonstration tools.</p>
 
 			<p>*Instructor can work with parents on any potential class name to fit transcripts. The class may also be adapted to American Lit since several American authors are featured. Discuss options with instructor. </p>
 
@@ -43,12 +43,12 @@
 
 			<div style="font-weight:bold;">
 				<img src="images/arrow.png" alt="" width="16" height="16" border="0" />
-				<a target="_blank" href="ContempLit/1617 CL formal descrip.pdf">Formal Course Description</a>
+				<a target="_blank" href="MultiLit/1617 ML formal descrip.pdf">Formal Course Description</a>
 	      <div class="clear"></div>
       </div>
       <div style="font-weight:bold;">
         <img src="images/arrow.png" alt="" width="16" height="16" border="0" />
-        <a target="_blank" href="ContempLit/Syllabus Cont Lit 1617b.pdf">Syllabus with Calendar</a>
+        <a target="_blank" href="MultiLit/Syllabus Multi Lit 1617.pdf">Syllabus with Calendar</a>
         <div class="clear"></div>
       </div>
       <!-- <div style="font-weight:bold;">

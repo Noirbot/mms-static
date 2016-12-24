@@ -47,7 +47,7 @@
                         </div>
                     </div>
                     <div class="ourprojectrow">
-                        <h3 class="list_header">Contemporary Lit &amp; Comp</h3>
+                        <h3 class="list_header">Multicultural Lit &amp; Comp</h3>
                         <h4>Optional Reading - Click names for details:</h4>
                         <p>(If you'd like to read something from the AP/BL list below, drop me a note first!)</p>
                         <dl class="readings">
