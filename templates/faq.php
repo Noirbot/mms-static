@@ -19,7 +19,7 @@
   <div class="ourprojectrow">
     <h6>Is your AP Language course authorized for 2016-17?</h6>
     <p>
-      Yes, you can find the College Board authorization letter <a href="APLang/16-17 AP Lang Authorization.pdf">here.
+      Yes, you can find the College Board authorization letter <a href="APLang/16-17 AP Lang Authorization.pdf">here.</a>
     </p><br/>
   </div>
 
