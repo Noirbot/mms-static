@@ -35,7 +35,7 @@
                                 Books are chosen for their interest and integrity; many are nonfiction and have been tested on students and found by them to be well worth their time. Students starting class in the fall can enter with up to three hundred points of credit to be added into their first semester scores.
                             </p><br>
                             <p>
-                                TO GET CREDIT: Please drop me an email and let me know when you have completed a book. We&#39;ll set up a few minutes to discuss the book by phone and I&#39;ll give you an excellent grade to start your fall semester. It&#39;s easy! Be in touch by email <a href="mailto:shumanhw@gmail.com">shumanhw@gmail.com</a> or phone 404-508-8318 any time.
+                                TO GET CREDIT: Please drop me an email and let me know when you have completed a book. We&#39;ll set up a few minutes to discuss the book by phone and I&#39;ll give you an excellent grade to start your fall semester. It&#39;s easy! Be in touch by email <a href="mailto:shumanhw@gmail.com">shumanhw@gmail.com</a> or phone 678-772-1644 any time.
                             </p>
                             <p>
                                 Note that there are points assigned to each piece of literature so that you can add up what your goal may be. AP required reading is done best in August. Reading for other classes is optional.

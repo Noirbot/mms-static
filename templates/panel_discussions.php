@@ -43,7 +43,7 @@
 				<td> <p> Contact <a href="mailto:718kat@gmail.com"> Katrina Harris</a> at 718kat@gmail.com or 678-344-1905 </p></td>
 				</tr>
 				<tr align = "center">
-				<td>  <p> or <a href="mailto:margaret@margaretshuman.com">Margaret Shuman</a> at margaret@margaretshuman.com or 404-508-8318. </p></td>
+				<td>  <p> or <a href="mailto:margaret@margaretshuman.com">Margaret Shuman</a> at margaret@margaretshuman.com or 678-772-1644. </p></td>
 				</tr>
 				<tr align = "center">
 				<td> <p> Find and "like" us on Facebook&mdash;LAC Homeschool Classes </p></td>
