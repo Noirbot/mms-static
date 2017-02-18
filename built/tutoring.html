@@ -27,6 +27,7 @@
 				<li><a href="faq.html">FAQ</a></li>
 				<li><a href="contact_M.html">Connect</a></li>
 				<li><a href="classes1617.html">2016-17 Classes</a></li>
+        <li><a href="classes1718.html">2017-18 Classes</a></li>
         <!-- <li><a href="summer_writing.html">Summer Writing</a></li> -->
 				<li><a href="summer_reading.html">Summer Reading</a></li>
 				<!-- <li><a href="tutoring.html">Student Tutoring</a></li> -->
