@@ -13,8 +13,8 @@
 
       <p>Texts: Perrine's <i>Literature: Structure, Sound, and Sense</i> (ISBN 0155511084) and classic literature such as
       <i>Oedipus Rex</i>*; <i>Things Fall Apart</i>; <i>Rosencrantz and Guildenstern Are Dead</i>;
-      <i>Hamlet</i> (Folger Edition); <i>Doll's House</i>*; <i>Cry, the Beloved Country</i>; <i>The Plague</i>; <i>Death of a Salesman</i>*,
-      <i>A Day in the Life of Ivan Denisovich</i>. (*included in Perrine text)
+      <i>Hamlet</i> (Folger Edition); <i>Doll's House</i>*; <i>Cry, the Beloved Country</i>; <i>The Plague</i>; <i>Death of a Salesman</i>*.
+      (*included in Perrine text)
       Instructor will provide handouts to be collected in student binders.</p>
 
       <p>Want to visit a class? Please drop into any of Margaret's classes at any time. </p>
@@ -23,7 +23,7 @@
         Tuition:
         <ul>
           <li>Eastside - $75 per month, Sept-May</li>
-          <li>MAS - $80 per month, Sept-May</li>
+          <li>MAS - $85 per month, Sept-May</li>
         </ul>
         <br/>
       </p>
@@ -37,11 +37,11 @@
 
       <div style="font-weight:bold;" class="clear">
         <img src="images/arrow.png" alt="" width="16" height="16" border="0" />
-        <a target="_blank"  href="APLit/1718 AP Lit formal descript.pdf">Formal Course Description</a>
+        <a target="_blank"  href="APLit/1718 AP Lit formal desc Mar.pdf">Formal Course Description</a>
       </div>
       <div style="font-weight:bold;" class="clear">
         <img src="images/arrow.png" alt="" width="16" height="16" border="0" />
-        <a target="_blank"  href="APLit/Syllabus AP Lit 1718.pdf">Syllabus</a>
+        <a target="_blank"  href="APLit/Syllabus AP Lit 1718 Mar.pdf">Syllabus</a>
       </div>
 
       <h2 class="partnerClass">Partner Classes</h2>

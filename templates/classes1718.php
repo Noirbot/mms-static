@@ -35,7 +35,7 @@
     <td>10:45</td>
     <td><a href="classes1718.html#APLit">AP Literature</a></td>
     <td><a href="classes1718.html#LitComp">Multicultural Lit</a> / <span class="partnerClass">AP European History (separate classes)*</span></td>
-    <td><a href="classes1718.html#BL">British Lit</a></td>
+    <td><a href="classes1718.html#LitComp">Multicultural Lit</a></td>
   </tr>
   <tr>
     <td>12:15</td>
@@ -47,13 +47,13 @@
     <td>12:45</td>
     <td><a href="classes1718.html#APLit">AP Literature</a>, cont. until 1:25<br/><span class="partnerClass">AP US Gov't &amp; Politics starts 1:30*</span></td>
     <td><span class="partnerClass">AP European History, cont. until 1:25*</span><br/><a href="classes1718.html#APLit">AP Literature</a> starts at 1:30</td>
-    <td><a href="classes1718.html#BL">British Lit</a>, cont.</td>
+    <td><a href="classes1718.html#BL">British Lit</a></td>
   </tr>
   <tr>
     <td>2:30</td>
     <td><span class="partnerClass">AP US Gov't &amp; Politics, cont.*</span></td>
     <td><a href="classes1718.html#APLit">AP Literature</a></td>
-    <td><a href="classes1718.html#LitComp">Multicultural Lit</a></td>
+    <td><a href="classes1718.html#BL">British Lit</a>, cont.</td>
   </tr>
 </table>
   <br/>

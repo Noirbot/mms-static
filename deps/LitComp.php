@@ -26,7 +26,7 @@
     Tuition:
     <ul>
       <li>Eastside - $65 per month, Sept-May</li>
-      <li>MAS - $70 per month, Sept-May</li>
+      <li>MAS - $75 per month, Sept-May</li>
     </ul>
     <br/>
     </p>
