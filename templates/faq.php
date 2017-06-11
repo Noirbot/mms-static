@@ -1,7 +1,7 @@
 <?php include('deps/m_header.php'); ?>
-      <h2>Is Multicultural Lit the same as your old Contemporary Lit course?</h2>
+      <h2>Can a student add work in to make one of your classes an "honors class"?</h2>
       <p>
-        Mostly. Some slight adjustments were made in order to conform to <a href="http://www.usg.edu/assets/student_affairs/documents/Staying_on_Course.pdf">new admissions guidelines</a> for Georgia universities, but the core of the class remains the same.
+        Certainly. See the honors requirements in the course descriptions of ML and BL classes here on my website.
       </p>
            </div>
         </div>
@@ -17,14 +17,7 @@
 	<h3><span><a name="faq">FAQ</a></span> </h3>
 
   <div class="ourprojectrow">
-    <h6>Is your AP Language course authorized for 2016-17?</h6>
-    <p>
-      Yes, you can find the College Board authorization letter <a href="APLang/16-17 AP Lang Authorization.pdf">here.</a>
-    </p><br/>
-  </div>
-
-  <div class="ourprojectrow">
-    <h6>Are you teaching the new SAT/ACT essays?</h6>
+    <h6>Are you teaching students how to write SAT/ACT essays?</h6>
     <p>
       I am assigning practice for them in each of my classes.
     </p><br/>
@@ -45,25 +38,44 @@
   </div>
 
   <div class="ourprojectrow">
+        <h6>How do your classes fit with others to make four high school English credits? </h6>
+ <p>
+   The last page of this linked document lists a number of classes that can count toward the four English courses required for a student to enter GA universities:  click <a href="http://www.usg.edu/assets/student_affairs/documents/Staying_on_Course.pdf">here</a>. Multicultural Lit can fill in for any class, even when a parent or teacher supplements literature to make a certain "flavor" of class (9th Grade, 10th Grade, American, World, etc.) I have students from 9th-12th grade (8th in a certain class at MAS) in ML since it is a practical skills course and covers a variety of accessible, quality works of literature. AP Lit and AP Lang can slide into any slots after ninth grade, depending on the background of the student. My AP Lit is a world lit course and can be labeled so if needed. My Brit Lit is great for 10th-12th graders. I would be happy to discuss options with you since there is no state-mandated progression of classes that homeschoolers must follow. Accreditors have various expectations, however, so if you go the accredited route, check ahead with the program you join.
+</p> <br />
+ </div>
+
+  <div class="ourprojectrow">
       <h6>Does Multicultural Lit count as American Lit? </h6>
        <p>
          I am happy to discuss how you and your student can add additional reading to my ML course to have it count as Am Lit. We do cover a number of Am Lit writers in ML such as Frost, Welty, King, Singer, Walker, and Eliot, and I can mark up an Am Lit survey text of your choice so that you can add appropriate reading at home. I also have a useful "American History through reading nonfiction, high-interest books" list derived from a <i>WORLD</i> magazine article <a href="GeneralDoc/American History Reading List.docx">here,</a> if you'd like to reference that as a possibility for Am History.
     </p> <br />
    </div>
 
+   <div class="ourprojectrow">
+       <h6>Does Multicultural Lit count as Ninth Grade Lit? </h6>
+        <p>
+          Yes! It can also count as Tenth, Junior, and Senior Lit, and a number of other comprehensive high school English courses that various accredited groups require. I am happy to discuss options with you, and provide grade reports with appropriate course names.
+     </p> <br />
+    </div>
 
-      <div class="ourprojectrow">
-            <h6>How do your classes fit with others to make four high school English credits? </h6>
-	   <p>
-       The last page of this linked document lists a number of classes that can count toward the four English courses required for a student to enter GA universities:  click <a href="http://www.usg.edu/assets/student_affairs/documents/Staying_on_Course.pdf">here</a>. Multicultural Lit can fill in for any class, even when a parent or teacher supplements literature to make a certain "flavor" of class (9th Grade, 10th Grade, American, World, etc.) I have students from 9th-12th grade (8th in a certain class at MAS) in ML since it is a practical skills course and covers a variety of accessible, quality works of literature. AP Lit and AP Lang can slide into any slots after ninth grade, depending on the background of the student. My AP Lit is a world lit course and can be labeled so if needed. My Brit Lit is great for 10th-12th graders. I would be happy to discuss options with you since there is no state-mandated progression of classes that homeschoolers must follow. Accreditors have various expectations, however, so if you go the accredited route, check ahead with the program you join.
-	  </p> <br />
+    <div class="ourprojectrow">
+        <h6>Does Multicultural Lit count as World Lit? </h6>
+         <p>
+           Yes! And we can adapt AP Lang and ML to count as well.
+      </p> <br />
      </div>
 
+     <div class="ourprojectrow">
+             <h6>Can I rename a class? </h6>
+ 			<p>
+ 			Yes-- that is your right as the lead teacher in your child's education. I can adjust the name of a class on a grade report if needed.
+ 			</p> <br />
+  		</div>
 
     <div class="ourprojectrow">
         <h6>How much homework is given? How many hours per week? </h6>
 	<p>
-	  AP students have the most homework, needing to work independently about 4-5 hours a week outside of class. Brit Lit and Contemp Lit students may spend 2-4 hours outside of class per week.
+	  AP students have the most homework, needing to work independently about 4-5 hours a week outside of class. Brit Lit and Multicultural Lit students may spend 2-4 hours outside of class per week.
 	</p> <br />
     </div>
 
@@ -98,7 +110,7 @@
 	  <div class="ourprojectrow">
             <h6>What are your qualifications to teach language arts? </h6>
 			<p>
-			I started at Berry College with the intention of becoming a pharmacist in grad school (ergo my interest in science!), but ended with a secondary English education major and renewable, 7-12 GA teaching certificate. I received a master's degree from Bowling Green State University, OH, in speech and theatre, taking graduate-level courses also in literature and theories of teaching writing. While at BGSU, I paid my way by teaching college speech classes and working in summer stock theatre. Since graduation, I have taught in two public schools, two private schools, and the hybrid education world. The College Board has approved me to teach both AP Literature and AP Language, and has hired me to score SAT essays. I have also led seminars in drama, AP English, speech, SAT prep, and writing at professional teacher development conferences and for various homeschool groups, and led the steering committee for triple accreditation of SACS, GAC, and ACSI at a private school in Atlanta. Since obtaining my teaching certificate and master's degree, I have taken approx. 30 additional hours of continuing education credits in teaching AP courses and reinforcing fine art and drama in the classroom. Besides all of this, I have had excellent mentors who have taught me to love teaching!
+			I graduated from Berry College with the intention of becoming a pharmacist in grad school (ergo my interest in science!), but ended with a secondary English education major and renewable, 7-12 GA teaching certificate. I received a master's degree from Bowling Green State University, OH, in speech and theatre, taking graduate-level courses also in literature and theories of teaching writing. While at BGSU, I paid my way by teaching college speech classes and working in summer stock theatre. Since graduation, I have taught in two public schools, two private schools, and the hybrid education world. The College Board has approved me to teach both AP Literature and AP Language, and has hired me to score SAT essays. I have also led seminars in drama, AP English, speech, SAT prep, and writing at professional teacher development conferences and for various homeschool groups, and led the steering committee for triple accreditation of SACS, GAC, and ACSI at a private school in Atlanta. Since obtaining my teaching certificate and master's degree, I have taken approx. 30 additional hours of continuing education credits in teaching AP courses and reinforcing fine art and drama in the classroom. Besides all of this, I have had excellent mentors who have taught me to love teaching!
 			</p> <br />
  		</div>
 
@@ -114,7 +126,7 @@
 	  <div class="ourprojectrow">
             <h6>What do you offer gifted students? </h6>
 			<p>
-			All of my classes can challenge students in some way since I work with them individually through the week, not just in the classroom. For example, there are sometimes seniors in Multicultural Lit (formerly Speech/Comp) who have already had an AP Lit course. They study the same skills as freshmen, but can work to a higher level because I learn how to push them in a healthy way. There is always interesting work that can be done, if a student is not feeling challenged. Summer reading provides a good opportunity for some students to add to curriculum, and AP courses are designed to challenge all.
+			All of my classes can challenge students in some way since I work with them individually through the week, not just in the classroom. For example, there are sometimes seniors in ML or BL who have already had an AP Lit course. They study the same skills as freshmen, but can work to a higher level because I learn how to push them in a healthy way. There is always interesting work that can be done, if a student is not feeling challenged. Summer reading provides a good opportunity for some students to add to curriculum, and AP courses are designed to challenge all. You can find details about an honors option for ML and BL in their course descriptions at this website.
 			</p> <br />
  		</div>
 
@@ -138,19 +150,10 @@
 			The GA Department of Education assigns course numbers to public school classes. Many accredited hybrid programs also use these numbers. You can find a complete list <a href="GeneralDoc/doe_course_numbers.pdf">here.</a>
 			</p> <br />
  		</div>
-
-	  <div class="ourprojectrow">
-            <h6>Can I rename a class? </h6>
-			<p>
-			Yes-- that is your right as the lead teacher in your child's education. I can adjust the name of a class on a grade report if needed.
-			</p> <br />
- 		</div>
-
-
 	  <div class="ourprojectrow">
             <h6>Do you grade papers and give tests? </h6>
 			<p>
-			Yes--I actually enjoy giving feedback to students, having conversations with them right on their assignments as well as in informal conferences. I grade all of my students' work myself, tracking the progress of each student and building relationships because I care about what each one does in my class. Through Engrade, I provide constant grade averages, based on plenty of assignments evaluated and returned weekly.
+			Yes--I actually enjoy giving feedback to students, having conversations with them right on their assignments as well as in informal conferences. I grade all of my students' work myself, tracking the progress of each student and building relationships because I care about what each one does in my class. Through EngradePro, I provide constant grade averages, based on plenty of assignments evaluated and returned weekly.
 			</p> <br />
  		</div>
      <div class="ourprojectrow">
@@ -159,9 +162,9 @@
 			</p> <br />
     </div>
     <div class="ourprojectrow">
-            <h6>What do you think of joint- and dual-enrollment? </h6>
+            <h6>What do you think of joint- and dual-enrollment/Move On When Ready? </h6>
       <p>
-      Some parents like to move their students into the college environment earlier than their peers. This is a good option, but should not be a pat goal. Given the quality of instructors in many hybrid programs, one would be hard-pressed to find better teachers in freshman college classes, or better peer students to study alongside. It's always best to visit classes before one enrolls in them, even college classes.
+      Some parents like to move their students into the college environment earlier than their peers. Move On When Ready, however, should not be a pat goal. Given the quality of instructors in many hybrid programs, one would be hard-pressed to find better teachers in freshman college classes, or better peer students to study alongside. It's always best to visit classes before one enrolls in them, even college classes.
       </p> <br />
     </div>
     <div class="ourprojectrow">
@@ -171,7 +174,7 @@
       </p> <br />
     </div>
     <div class="ourprojectrow">
-            <h6>Your classes meet in churches or in a seminary, and you are a Christian. How does that play out in the classroom? </h6>
+            <h6>Your classes meet in churches, and you are a Christian. How does that play out in the classroom? </h6>
       <p>
       My fellow teachers and I are Christians, though we come from different Christian churches. Many of my students are Christians, belonging to over 50 different churches at last count, but some students and families are not Christian and come from either a different faith group or are not sure about the actual existence of faith and God. I do not have a "Christian format" for my classes, as in starting every class with verbal prayer or writing Scripture on the board. Coming from a variety of secular teaching environments and my own mostly public/secular education, I value the freedom to share my perspectives as one who has a personal relationship with Jesus Christ. However, I want all of my students to know they can share their own views on paper and verbally in class without being judged. God is powerful to reach into a person's life at any moment if he or she is asking questions, whether acting religiously or not; my goal is to create an environment that is respectful of where each student is coming from.
       </p> <br />
@@ -191,7 +194,7 @@
     <div class="ourprojectrow">
       <h6>Are some families using accreditation services other than Georgia Accrediting Commission? </h6>
       <p>
-        Yes, Customized Education Designs accredits through Middle States Association of Colleges and Schools. They do not have the same criteria for requiring pedagogy hours in a teacher's background as does GAC (see next FAQ for details). You can find more about CED <a href="http://www.customizeded.com/">here</a>.
+        Yes, Customized Education Designs accredits through Middle States Association of Colleges and Schools. You can find more about CED <a href="http://www.customizeded.com/">here</a>.
       </p> <br />
     </div>
     <div class="ourprojectrow">
@@ -201,10 +204,18 @@
       </p><br/>
     </div>
     <h1>AP-related Questions:</h1>
+
+    <div class="ourprojectrow">
+      <h6>Are your AP courses authorized by the College Board?</h6>
+      <p>
+        Yes, you can find the last year's authorization letter <a href="APLang/16-17 AP Lang Authorization.pdf">here.</a> Each year, my syllabus is updated and approved by the College Board.
+      </p><br/>
+    </div>
+
     <div class="ourprojectrow">
             <h6>What are the benefits of Advanced Placement classes? </h6>
       <p>
-      To have "AP" on one's transcript, your instructor must be approved by the College Board. Students often get 5-10 pts added to their GPA course value for an AP class. APs are helpful for the new HOPE standards for 2015 grads. Students also have the opportunity to sit for AP exams given only in May. Though the test is not required for one to receive class credit, and one does not need to take an AP class to take an AP exam, an exam with a good score can reward students course credit in college. A talk with college representatives or a look at a college website can determine how valuable AP classes and tests may be for a student.
+      To have "AP" on one's transcript, your instructor must be approved by the College Board. Students often get 5-10 pts added to their GPA course value for an AP class. APs are helpful for the new HOPE rigor standards for 2015 grads. Students also have the opportunity to sit for AP exams given only in May. Though the test is not required for one to receive class credit, and one does not need to take an AP class to take an AP exam, an exam with a good score can reward students course credit in college. A talk with college representatives or a look at a college website can determine how valuable AP classes and tests may be for a student. Some universities offer credit for up to two English classes for a good score on the AP English exam.
       </p> <br />
     </div>
 
@@ -215,9 +226,9 @@
       </p> <br />
     </div>
     <div class="ourprojectrow">
-            <h6>Should a tenth grader take AP? How about juniors? </h6>
+            <h6>Should a ninth or tenth grader take AP? How about juniors? </h6>
       <p>
-      Some tenth graders have done very well in AP. I like to screen tenth graders to be sure they want to be in the class and will be engaged in the material, not just checking off assignments in a mindless way or expecting lots of rote work. They need to have a good background in language arts and not be afraid of criticism of their writing. Both sophomores and juniors have the advantage of having their AP test scores available to share on college applications, since scores come back in July, which is another reason for taking the class before senior year.
+      Some ninth and tenth graders have done very well in AP. I like to screen ninth graders to be sure they want to be in the class and will be engaged in the material, not just checking off assignments in a mindless way or expecting lots of rote work. They need to have a good background in language arts and not be afraid of criticism of their writing. Both sophomores and juniors have the advantage of having their AP test scores available to share on college applications, since scores come back in July, which is another reason for taking the class before senior year.
       </p> <br />
     </div>
     <div class="ourprojectrow">
