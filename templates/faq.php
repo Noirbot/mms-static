@@ -1,5 +1,5 @@
 <?php include('deps/m_header.php'); ?>
-      <h2>Can a student add work in to make one of your classes an "honors class"?</h2>
+      <h2 style="padding-top: 75px; padding-right: 30px;">Can a student add work in to make one of your classes an "honors class"?</h2>
       <p>
         Certainly. See the honors requirements in the course descriptions of ML and BL classes here on my website.
       </p>
@@ -59,7 +59,7 @@
     </div>
 
     <div class="ourprojectrow">
-        <h6>Does Multicultural Lit count as World Lit? </h6>
+        <h6>Does AP Lit count as World Lit? </h6>
          <p>
            Yes! And we can adapt AP Lang and ML to count as well.
       </p> <br />
@@ -86,17 +86,6 @@
 	  All the time! This is where my building a relationship with each student as well as good observation of each student's work provide positive anecdotes regarding his or her potential for college work, summer camp counseling, scholarship or award qualification, honors program participation, part-time work, Eagle Scout merit, etc. I really enjoy writing these letters. This is where I get to do the essay writing! If for some reason I cannot write a positive letter, which is rare, I will let the student and parent know so that they can choose another recommender.
 	</p> <br />
    </div>
-
-
-
-      <div class="ourprojectrow">
-            <h6>Can a parent add work in to make one of your classes an "honors class"? </h6>
-			<p>
-			Certainly. There are many options for added work, such as classes from online or college lecture series, additional grammar and writing exercises, outside reading, and attendance at pertinent events. There is no standard for what an honors designation should represent, so a parent can either take my grade reports and course descriptions and augment them with an addendum, or can work with me to put a course description together that meets the approval of both of us. Since I focus more on Advanced Placement to upgrade classes, a change to an honors designation should be initiated by the parent, who can suit her student's needs the best.
-			</p> <br />
-		</div>
-
-
 
       <div class="ourprojectrow">
             <h6>What is your theory of teaching writing and grammar? </h6>
@@ -147,7 +136,7 @@
 	  <div class="ourprojectrow">
             <h6>What are DOE course numbers? </h6>
 			<p>
-			The GA Department of Education assigns course numbers to public school classes. Many accredited hybrid programs also use these numbers. You can find a complete list <a href="GeneralDoc/doe_course_numbers.pdf">here.</a>
+			The GA Department of Education assigns course numbers to public school classes. Many accredited hybrid programs also use these numbers. You can find a complete list <a href="https://www.gadoe.org/Curriculum-Instruction-and-Assessment/Curriculum-and-Instruction/Documents/State-Funded-List-of-Subjects-and-Courses-Supported-by-SBOE-Rule-160-4-2-20.pdf">here.</a>
 			</p> <br />
  		</div>
 	  <div class="ourprojectrow">
@@ -200,7 +189,7 @@
     <div class="ourprojectrow">
       <h6>What's new for students graduating in 2015+ and the HOPE scholarship? </h6>
       <p>
-        There is a new "rigor" requirement that requires a student to prove he has taken some advanced classes. AP classes are not the only ones that qualify, especially in the maths and sciences. You can find more <a href="GeneralDoc/HOPE_Rigor_Requirements.pdf">here.</a>
+        There is a new "rigor" requirement that requires a student to prove he has taken some advanced classes. AP classes are not the only ones that qualify, especially in the maths and sciences. You can find more <a href="Ghttps://www.gafutures.org/media/177813/faqs-hope-zm-scholarship-122116.pdf">here.</a>
       </p><br/>
     </div>
     <h1>AP-related Questions:</h1>
@@ -244,4 +233,3 @@
       </p><br/>
     </div> -->
 		<div class="clear"></div>
-<?php include('footer.php'); ?>
