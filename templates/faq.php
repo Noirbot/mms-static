@@ -189,7 +189,7 @@
     <div class="ourprojectrow">
       <h6>What's new for students graduating in 2015+ and the HOPE scholarship? </h6>
       <p>
-        There is a new "rigor" requirement that requires a student to prove he has taken some advanced classes. AP classes are not the only ones that qualify, especially in the maths and sciences. You can find more <a href="Ghttps://www.gafutures.org/media/177813/faqs-hope-zm-scholarship-122116.pdf">here.</a>
+        There is a new "rigor" requirement that requires a student to prove he has taken some advanced classes. AP classes are not the only ones that qualify, especially in the maths and sciences. You can find more <a href="https://www.gafutures.org/hope-state-aid-programs/hope-zell-miller-scholarships/hope-scholarship/eligibility/academic-rigor-requirements/">here.</a>
       </p><br/>
     </div>
     <h1>AP-related Questions:</h1>
