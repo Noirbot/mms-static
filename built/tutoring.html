@@ -33,7 +33,7 @@
 				<li><a href="coaching.html">Coaching</a></li>
 				<!-- <li><a href="sat_prep.html">SAT Prep</a></li> -->
 				<!-- <li><a href="panel_discussions.html">Panels </a></li> -->
-        <li><a href="GeneralDoc/MARGARET SHUMAN RESUME 2016.pdf">Resume</a></li>
+        <li><a href="GeneralDoc/MARGARET SHUMAN 2017.pdf">Resume</a></li>
 				</ul>
             <div class="clear"></div>
           </div>
