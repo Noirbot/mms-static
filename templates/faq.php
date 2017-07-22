@@ -47,7 +47,7 @@
   <div class="ourprojectrow">
       <h6>Does Multicultural Lit count as American Lit? </h6>
        <p>
-         I am happy to discuss how you and your student can add additional reading to my ML course to have it count as Am Lit. We do cover a number of Am Lit writers in ML such as Frost, Welty, King, Singer, Walker, and Eliot, and I can mark up an Am Lit survey text of your choice so that you can add appropriate reading at home. I also have a useful "American History through reading nonfiction, high-interest books" list derived from a <i>WORLD</i> magazine article <a href="GeneralDoc/American History Reading List.docx">here,</a> if you'd like to reference that as a possibility for Am History.
+         I am happy to discuss how you and your student can add additional reading to my ML course to have it count as Am Lit. We do cover a number of Am Lit writers in ML such as Frost, Welty, King, Singer, Walker, and Eliot, and I can mark up an Am Lit survey text of your choice so that you can add appropriate reading at home. I also have a useful "American History through reading nonfiction, high-interest books" list derived from a <i>WORLD</i> magazine article <a href="GeneralDoc/American History Reading List.pdf">here,</a> if you'd like to reference that as a possibility for Am History.
     </p> <br />
    </div>
 
