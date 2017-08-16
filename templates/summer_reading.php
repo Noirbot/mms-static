@@ -178,7 +178,7 @@
                         </dl>
                         <hr/>
                         <p>
-                            The complete reading list, including instructions is here: <a target="_blank" href="GeneralDoc/2017-18SummerReading June 1.pdf">2017 Summer Reading</a>
+                            The complete reading list, including instructions, is here: <a target="_blank" href="GeneralDoc/2017-18SummerReading June 1.pdf">2017 Summer Reading</a>
                         </p>
                     </div>
                     <div class="clear"></div><?php include('deps/footer.php'); ?>
