@@ -1,8 +1,9 @@
 <?php include('deps/m_header.php'); ?>
             <h1>Student Tutoring and Adult Consultation</h1>
             <ul>
-                <li>​Add skills</li>
-                <li>Finish projects</li>
+                <li>​Develop speaking, writing, and testing skills</li>
+                <li>Increase motivation and finish lingering projects</li>
+                <li>Create and clean up resumes and other documents</li>
             </ul>
 
            </div>
@@ -19,7 +20,7 @@
 
   <div class="ourprojectrow">
     <h6>TUTORING FOR STUDENTS</h6>
-    <div> <img src="pictures/two girls_2.jpg" alt="" width="300" height="225" class="project-img" />
+    <div> <img src="pictures/powerpointgirl34.jpg" alt="" width="300" height="225" class="project-img" />
     <p>Students in grades 7 through college can reinforce or add skills.</p>
     <p>Sample Topics:</p>
       <ul style="float: none">

@@ -30,10 +30,10 @@
 			<td align="center"> <a href="APLang_class.html"><h2>AP Language</h2></a></td>
 			</tr>
 			<tr>
-			<td><img src="pictures/powerpointgirl34.jpg" alt="" width="240" height="170" style="float:center; " /></td>
-			<td><img src="pictures/storyboard34.jpg" alt="" width="240" height="170" style="float:left; margin:0px 0px 0px 0px;" /></td>
+			<td><img src="pictures/Red table ladies.jpg" alt="" width="240" height="170" style="float:center; " /></td>
 			<td><img src="pictures/circlegirls34.jpg" alt="" width="240" height="170" style="float:left; margin:0px 0px 0px 0px;" /></td>
-			<td><img src="pictures/twoguys.jpg" alt="" width="240" height="170" style="float:left; margin:0px 0px 0px 0px;" /></td>
+			<td><img src="pictures/Green wall classroom.jpg" alt="" width="240" height="170" style="float:left; margin:0px 0px 0px 0px;" /></td>
+			<td><img src="pictures/Shem and Anna.jpg" alt="" width="240" height="170" style="float:left; margin:0px 0px 0px 0px;" /></td>
 			</tr>
 		</table>
 

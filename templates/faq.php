@@ -16,6 +16,8 @@
 	<div style="padding:30px">
 	<h3><span><a name="faq">FAQ</a></span> </h3>
 
+  <img src="pictures/museum pink 2.jpg" alt="" width="300" height="225" class="project-img" />
+
   <div class="ourprojectrow">
     <h6>Are you teaching students how to write SAT/ACT essays?</h6>
     <p>
