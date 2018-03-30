@@ -2,7 +2,7 @@
   <h6>Multicultural Literature and Composition* (ML)</h6>
   <div>
     <img src="pictures/storyboard34.jpg" alt="" width="300" height="225" class="project-img" />
-    <p>Learn about "Honors" option here: <a href="GeneralDoc/Honors Credit Directions 1718.pdf">Honors Details</a></p> <br/>
+    <p>Learn about "Honors" option here: <a href="GeneralDoc/Honors Credit Directions 1819.pdf">Honors Details</a></p> <br/>
     <p>*Class may serve as or be adapted to World Lit, American Lit, Ninth Grade Lit, or other standards. Instructor can work with parents on requirements to fit transcript needs.</p><br />
     <p>Grades: 9-12</p> <br />
     <p>One core credit </p> <br />
@@ -51,7 +51,7 @@
     </div>
     <div style="font-weight:bold;" class="clear">
       <img src="images/arrow.png" alt="" width="16" height="16" border="0" />
-      <a target="_blank" href="GeneralDoc/Honors Credit Directions 1718.pdf">Honors Details</a>
+      <a target="_blank" href="GeneralDoc/Honors Credit Directions 1819.pdf">Honors Details</a>
     </div>
     <br />
   </div>
