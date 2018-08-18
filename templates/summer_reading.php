@@ -117,6 +117,8 @@
                         <h3 class="list_header">AP English Language and Comp and British Lit &amp; Comp</h3>
                         <h4>Optional Reading for AP and BL - Click names for details:</h4>
                         <dl class="readings">
+                            <dt><em>Barracoon: The Story of the Last "Black Cargo"</em> by Zora Neale Hurston <strong>(100 pts)</strong></dt>
+                            <dd>This brief account was recently discovered and then published in 2018. Hurston sat many hours with a gentleman named "Cudjo" who became enslaved 50 years after the slave trade was outlawed in the U.S., captured and smuggled out of African when he was 19. She gives context as he storytells through his youth, capture, enslavement, freedom, and old age. Though predictably tragic in places, there is a balance of hope and dignity found in Cudjo's love for his African culture and the family he raises later in Alabama.</dd>
                             <dt><em>Bend, Not Break</em> by Ping Fu <strong>(100 pts)</strong></dt>
                             <dd>Ping Fu grew up during the Cultural Revolution in China. I didn&#39;t know anything about this time period before reading the book, but was really caught up in her story, which is rather like a dystopia at first (think The Giver or 1984, but her story is true!). Today Ms. Fu leads a 3-D printing corporation she began here in the US, with a life in serious contrast to her incredible past growing up being indoctrinated into the Revolution&#39;s crazy world.</dd>
                             <dt><em>Black Count, The</em> by Tom Reiss <strong>(100 pts)</strong></dt>
@@ -187,6 +189,8 @@
                             <dd><em>Till We Have Faces</em> is the last novel that Lewis wrote before his death, and is a fantasy story of friendship and faith. My students usually like the story, but are lost on the overall relevancy to Lewis's faith. Please email me for useful, brief, explanatory notes! <a href="mailto:Shumanhw@gmail.com">Shumanhw@gmail.com</a></dd>
                             <dt><em>Unashamed</em> by Lecrae Moore <strong>(100 pts)</strong></dt>
                             <dd>Learn the engaging backstory of rap​per and Grammy-winning artist Lecrae. He has a long struggle to faith in Christ, and eventually finds clear answers to many questions: Why even be a Christian? What does it mean for a Christian to affect culture? Why bother being in culture, when there is a Christian audience one could make happy?</dd>
+                            <dt><em>Understanding Comics: The Invisible Art</em> by Scott McCloud <strong>(100 pts)</strong></dt>
+                            <dd>McCloud draws every frame of this book and it is a good read whether one likes comics or not! He gives context to this art form found in many cultures and time periods, and breaks understanding of comics into idea/purpose, form, idiom, structure, craft, and surface. Just a couple of frames illustrating a particular style are objectionable, and the reader can move quickly on from them. This is a book packed with art and analysis of style, all in comic format.</dd>
                         </dl>
                         <hr/>
                         <p>
