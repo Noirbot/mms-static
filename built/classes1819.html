@@ -28,6 +28,7 @@
 				<li><a href="contact_M.html">Connect</a></li>
         <!-- <li><a href="classes1718.html">2017-18 Classes</a></li> -->
         <li><a href="classes1819.html">2018-19 Classes</a></li>
+        <li><a href="classes1819.html">2019-20 Classes</a></li>
         <!-- <li><a href="summer_writing.html">Summer Writing</a></li> -->
 				<li><a href="summer_reading.html">Summer Reading</a></li>
 				<!-- <li><a href="tutoring.html">Student Tutoring</a></li> -->
