@@ -16,8 +16,8 @@
                     <div class="ourprojectrow">
                         <div>
                             <p>
-                                <a target="_blank" href="GeneralDoc/2018 summer reading Mar 29.pdf">
-                                    <span style="font-size: 20px; font-weight:bold;">Download 2018 Summer Reading List</span>
+                                <a target="_blank" href="GeneralDoc/2019SummerReadingFeb6.pdf">
+                                    <span style="font-size: 20px; font-weight:bold;">Download 2019 Summer Reading List</span>
                                 </a>
                             </p>
                         </div>
@@ -194,7 +194,7 @@
                         </dl>
                         <hr/>
                         <p>
-                            The complete reading list, including instructions, is here: <a target="_blank" href="GeneralDoc/2018 summer reading Mar 29.pdf">2018 Summer Reading</a>
+                            The complete reading list, including instructions, is here: <a target="_blank" href="GeneralDoc/2019SummerReadingFeb6.pdf">2019 Summer Reading</a>
                         </p>
                     </div>
                     <div class="clear"></div><?php include('deps/footer.php'); ?>

@@ -2,7 +2,7 @@
   <h6> British Literature &amp; Composition (BL)</h6>
   <div>
     <img src="pictures/BL art green.jpg" alt="" width="300" height="225" class="project-img" />
-    <p>Learn about "Honors" option here: <a href="GeneralDoc/Honors Credit Directions 1819.pdf">Honors Details</a></p> <br/>
+    <p>Learn about "Honors" option here: <a href="GeneralDoc/Honors Credit Directions 1920.pdf">Honors Details</a></p> <br/>
     <p>Grades: 10-12, 9 with permission of instructor </p> <br />
     <p>DOE course number: 23.05200</p>  <br />
     <p>One core credit </p>  <br />
@@ -20,13 +20,9 @@
       Tuition:
       <ul>
         <li>Eastside - $80 per month, Sept-May</li>
+        <li>Take $5 off per month per student for families with multiple students enrolled in Shuman courses in a current year.</li>
+        <li>Take $5 off per month per student for families who have enrolled at least one student in a Shuman course in the past.</li>
       </ul>
-      <br/>
-    </p>
-    <p>
-      Take $5 off per month per student for families with multiple students enrolled in Shuman courses in a current year.
-      <br/>
-      Take $5 off per month per student for families who have enrolled at least one student in a Shuman course in the past.
     </p>
 
     <div style="font-weight:bold;" class="clear">
@@ -39,7 +35,7 @@
     </div>
     <div style="font-weight:bold;" class="clear">
       <img src="images/arrow.png" alt="" width="16" height="16" border="0" />
-      <a target="_blank" href="GeneralDoc/Honors Credit Directions 1819.pdf">Honors Details</a>
+      <a target="_blank" href="GeneralDoc/Honors Credit Directions 1920.pdf">Honors Details</a>
     </div>
   </div>
 </div>

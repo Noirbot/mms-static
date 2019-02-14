@@ -27,14 +27,14 @@
   </tr>
   <tr>
     <td>9:00</td>
-    <td><a href="classes1819.html#LitComp">Multicultural Lit</a></td>
-    <td><a href="classes1819.html#BL">British Lit</a></td>
-    <td><a href="classes1819.html#LitComp">Multicultural Lit</a></td>
+    <td><a href="classes1920.html#LitComp">Multicultural Lit</a></td>
+    <td><a href="classes1920.html#BL">British Lit</a></td>
+    <td><a href="classes1920.html#LitComp">Multicultural Lit</a></td>
   </tr>
   <tr>
     <td>10:45</td>
-    <td><a href="classes1819.html#APLit">AP Literature</a></td>
-    <td><a href="classes1819.html#BL">British Lit</a>, cont</td>
+    <td><a href="classes1920.html#APLit">AP Literature</a></td>
+    <td><a href="classes1920.html#BL">British Lit</a>, cont until 12:00</td>
     <td></td>
   </tr>
   <tr>
@@ -45,14 +45,14 @@
   </tr>
   <tr>
     <td>12:45</td>
-    <td><a href="classes1819.html#APLit">AP Literature</a>, cont until 2:00</td>
-    <td><a href="classes1819.html#APLit">AP Literature</a></td>
-    <td><a href="classes1819.html#LitComp">Multicultural Lit</a></td>
+    <td><a href="classes1920.html#APLit">AP Literature</a>, cont until 2:00</td>
+    <td><a href="classes1920.html#APLit">AP Literature</a></td>
+    <td><a href="classes1920.html#LitComp">Multicultural Lit</a></td>
   </tr>
   <tr>
     <td>2:30</td>
     <td></td>
-    <td><a href="classes1819.html#BL">AP Literature</a>, cont until 3:45</td>
+    <td><a href="classes1920.html#BL">AP Literature</a>, cont until 3:45</td>
     <td></td>
   </tr>
 </table>

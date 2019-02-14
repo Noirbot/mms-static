@@ -24,14 +24,10 @@
         <ul>
           <li>Eastside - $80 per month, Sept-May</li>
           <li>MAS - $90 per month, Sept-May</li>
+          <li>Take $5 off per month per student for families with multiple students enrolled in Shuman courses in a current year.</li>
+          <li>Take $5 off per month per student for families who have enrolled at least one student in a Shuman course in the past.</li>
         </ul>
         <br/>
-      </p>
-      <p>
-        <br/>
-        Take $5 off per month per student for families with multiple students enrolled in Shuman courses in a current year.
-        <br/>
-        Take $5 off per month per student for families who have enrolled at least one student in a Shuman course in the past.
       </p>
 
       <div class="clear"></div>

@@ -19,14 +19,14 @@
 
       <p>Want to visit a class? Please drop into any of Margaret's classes at any time. </p>
 
-      <!-- <p class="clear">
+      <p class="clear">
         Tuition:
         <ul>
-          <li>Eastside - $75 per month, Sept-May</li>
-          <li>MAS - $85 per month, Sept-May</li>
+          <li>Eastside - $80 per month, Sept-May</li>
+          <li>MAS - $90 per month, Sept-May</li>
         </ul>
         <br/>
-      </p> -->
+      </p>
       <p class="clear">
         Take $5 off per month per student for families with multiple students enrolled in Shuman courses in a current year.
         <br/>
