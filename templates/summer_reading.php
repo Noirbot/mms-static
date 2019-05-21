@@ -1,9 +1,9 @@
 <?php include('deps/m_header.php'); ?>
         <h1>
-            Welcome to Summer Reading!
+            Extra Credit Reading List
         </h1>
         <p>
-            <span style="font-size: 12pt">Whether you are looking for material to pass the time this summer, or wanting to augment the literature part of a class, you may find these lists helpful. There is a balance of "need to know" materials and contemporary fiction and nonfiction.</span>
+            <span style="font-size: 12pt">Whether you are looking for material to pass the time this summer, or wanting to augment the literature part of a class, you may find these lists helpful. There is a mix of important classic works and contemporary fiction and nonfiction.</span>
         </p></div></div>
         <div class="clear"></div>
     </div>
@@ -16,8 +16,8 @@
                     <div class="ourprojectrow">
                         <div>
                             <p>
-                                <a target="_blank" href="GeneralDoc/2019SummerReadingFeb6.pdf">
-                                    <span style="font-size: 20px; font-weight:bold;">Download 2019 Summer Reading List</span>
+                                <a target="_blank" href="GeneralDoc/1920SummerReadingMay19.pdf">
+                                    <span style="font-size: 20px; font-weight:bold;">Download 2019 Reading List</span>
                                 </a>
                             </p>
                         </div>
@@ -32,13 +32,11 @@
                               This list started as a record of many books my family read out loud to each other. Over several years I have added more, all the while trying to choose those with redemptive themes.
                             </p><br>
                             <p>
-                                Books are chosen for their interest and integrity; many are nonfiction and have been tested on students and found by them to be well worth their time. Students starting class in the fall can enter with up to three hundred points of credit to be added into their first semester scores.
+                                Books are chosen for their interest and integrity; many are nonfiction and students have found by them to be well worth their time. Students starting class in the fall can enter with up to 300 points of credit to be added into their first semester scores. Note that there are varying points assigned to each piece of literature so that you can add up what your goal may be.
                             </p><br>
+                            <p>Those wishing to learn about honors reading credit can find more information here: <a href="GeneralDoc/Honors Credit Directions 1920.pdf">Honors Details</a></p> <br/>
                             <p>
-                                TO GET CREDIT: Please drop me an email and let me know when you have completed a book. We&#39;ll set up a few minutes to discuss the book by phone and I&#39;ll give you an excellent grade to start your fall semester. It&#39;s easy! Be in touch by email <a href="mailto:shumanhw@gmail.com">shumanhw@gmail.com</a> or phone 678-772-1644 any time.
-                            </p>
-                            <p>
-                                Note that there are points assigned to each piece of literature so that you can add up what your goal may be. AP required reading is done best in August. Reading for other classes is optional.
+                                TO GET CREDIT: Please drop me an email and let me know when you have completed a book. We&#39;ll set up a few minutes to discuss the book by phone. It&#39;s easy! Be in touch by email <a href="mailto:shumanhw@gmail.com">shumanhw@gmail.com</a> or phone 678-772-1644 any time.
                             </p><br>
                             <p>
                                 <span style="color: #ff9000"><strong>Click on a book's name for more details.</strong></span>
@@ -119,6 +117,8 @@
                         <dl class="readings">
                             <dt><em>Barracoon: The Story of the Last "Black Cargo"</em> by Zora Neale Hurston <strong>(100 pts)</strong></dt>
                             <dd>This brief account was recently discovered and then published in 2018. Hurston sat many hours with a gentleman named "Cudjo" who became enslaved 50 years after the slave trade was outlawed in the U.S., captured and smuggled out of African when he was 19. She gives context as he storytells through his youth, capture, enslavement, freedom, and old age. Though predictably tragic in places, there is a balance of hope and dignity found in Cudjo's love for his African culture and the family he raises later in Alabama.</dd>
+                            <dt><em>Becoming</em> by Michelle Obama <strong>(100 pts)</strong></dt>
+                            <dd>Former First Lady Michelle Obama tells her life story, giving personal perspective on her early days, her love of family, her improbable educational achievements, her life as a business professional, her marriage to Barack Obama, campaigning for his presidency, and their years in the White House.</dd>
                             <dt><em>Bend, Not Break</em> by Ping Fu <strong>(100 pts)</strong></dt>
                             <dd>Ping Fu grew up during the Cultural Revolution in China. I didn&#39;t know anything about this time period before reading the book, but was really caught up in her story, which is rather like a dystopia at first (think The Giver or 1984, but her story is true!). Today Ms. Fu leads a 3-D printing corporation she began here in the US, with a life in serious contrast to her incredible past growing up being indoctrinated into the Revolution&#39;s crazy world.</dd>
                             <dt><em>Black Count, The</em> by Tom Reiss <strong>(100 pts)</strong></dt>
@@ -189,12 +189,14 @@
                             <dd><em>Till We Have Faces</em> is the last novel that Lewis wrote before his death, and is a fantasy story of friendship and faith. My students usually like the story, but are lost on the overall relevancy to Lewis's faith. Please email me for useful, brief, explanatory notes! <a href="mailto:Shumanhw@gmail.com">Shumanhw@gmail.com</a></dd>
                             <dt><em>Unashamed</em> by Lecrae Moore <strong>(100 pts)</strong></dt>
                             <dd>Learn the engaging backstory of rap​per and Grammy-winning artist Lecrae. He has a long struggle to faith in Christ, and eventually finds clear answers to many questions: Why even be a Christian? What does it mean for a Christian to affect culture? Why bother being in culture, when there is a Christian audience one could make happy?</dd>
+                            <dt><em>Underground: A Human History of the Worlds beneath Our Feet</em> by Will Hunt <strong>(100 pts)</strong></dt>
+                            <dd>Justin Davidson, an architecture critic for New York magazine, says of this book: "Will Hunt is an irresistible guide. I followed Underground&#39;s global tour of subterranean cultures with astonishment and joy, happy to meet a cast of cataphiles, compulsive diggers, ochre priests, spelunkers, and various seekers of the dark. I will never look at a hole in the ground in quite the same way again." Mrs. Shuman says, "My husband and I enjoyed reading this book aloud, finding ourselves under Paris, in caves in Australia, and in train tunnels in NYC. We learned a lot about why people have lived, visited, and worked beneath the surface."</dd>
                             <dt><em>Understanding Comics: The Invisible Art</em> by Scott McCloud <strong>(100 pts)</strong></dt>
                             <dd>McCloud draws every frame of this book and it is a good read whether one likes comics or not! He gives context to this art form found in many cultures and time periods, and breaks understanding of comics into idea/purpose, form, idiom, structure, craft, and surface. Just a couple of frames illustrating a particular style are objectionable, and the reader can move quickly on from them. This is a book packed with art and analysis of style, all in comic format.</dd>
                         </dl>
                         <hr/>
                         <p>
-                            The complete reading list, including instructions, is here: <a target="_blank" href="GeneralDoc/2019SummerReadingFeb6.pdf">2019 Summer Reading</a>
+                            The complete reading list, including instructions, is here: <a target="_blank" href="GeneralDoc/1920SummerReadingMay19.pdf">2019 Summer Reading</a>
                         </p>
                     </div>
                     <div class="clear"></div><?php include('deps/footer.php'); ?>
@@ -202,7 +204,7 @@
 <script type="text/javascript">
     function toggle(id) {
         var text = document.getElementById(id);
-        text.className = (text.className == "hide") ? "show" : "hide";
+        text.className = (text.className === "hide") ? "show" : "hide";
     }
 
     var IDMaker = {
@@ -218,7 +220,7 @@
         var titles = areas[i].getElementsByTagName('dt');
         var descs = areas[i].getElementsByTagName('dd');
 
-        if (titles.length == descs.length) {
+        if (titles.length === descs.length) {
             for (var j = 0; j < titles.length; j++) {
                 var id = IDMaker.getID();
                 descs[j].id = id;

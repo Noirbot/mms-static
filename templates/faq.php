@@ -19,20 +19,6 @@
   <img src="pictures/museum pink 2.jpg" alt="" width="300" height="225" class="project-img" />
 
   <div class="ourprojectrow">
-    <h6>Are you teaching students how to write SAT/ACT essays?</h6>
-    <p>
-      I am assigning practice for them in each of my classes.
-    </p><br/>
-  </div>
-
-  <div class="ourprojectrow">
-    <h6>How did your AP Language students do on the national exam in May 2017?</h6>
-    <p>
-      The exam is scored from 1 -5, 5 being the highest score. I only have access to student scores if they send them to me after they get their results in July. Out of the 17 students who sent me their scores, 5 received a score of 5, 5 had a score of 4, 3 had a 3, and four scored a 2. Nationwide, 75% of students made a score of 3 or less.
-    </p><br/>
-  </div>
-
-  <div class="ourprojectrow">
     <h6>Which aptitude testing/career counseling group do you recommend? </h6>
     <p>
       <a href="http://www.jocrf.org/">Johnson O'Connor Research Foundation</a>, with an office here in Atlanta.
