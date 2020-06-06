@@ -1,12 +1,13 @@
         <div class="ourprojectrow">
-            <h6>Advanced Placement English Language and Composition (AP)</h6>
+            <h6>Advanced Placement English Language and Composition</h6>
             <div> <img src="pictures/twoguys.jpg" alt="" width="300" height="225" class="project-img" />
-			<p>Grades: 11-12, 9-10 with instructor approval </p> <br />
+      <p>This course can sub for American Lit.</p> <br />
+      <p>Grades: 11-12, 9-10 with instructor approval </p> <br />
 			<p>One core credit </p> <br />
       <p>One weekly class with two 90-min sections</p>
-			<p>DOE course code: 23.04300 </p>
+			<p>23.04300 (AP Lang) and 23.05300 (Am Lit/AP Lang combo)</p>
 
-			<p>Prerequisites: At least a B in two previous high-school level English classes</p>
+			<p>Prerequisites: At least a B in two previous high-school-level English classes</p>
 			<!-- <p>Click <a href="certificates/AP Lang Auth 12-13.pdf">here</a>
 			to view an AP Language authorization from College Board for Mrs. Shuman's class.
 			She can extend that authorization to other groups as needed.</p> <br /> -->
@@ -45,9 +46,9 @@
 			  <a target="_blank" href="APLang/Syllabus AP Lang 1819.pdf">Syllabus</a>
         <div class="clear"></div>
       </div>
-      <div style="font-weight:bold;">
+      <!-- <div style="font-weight:bold;">
         <img src="images/arrow.png" alt="" width="16" height="16" border="0" />
 			  <a target="_blank" href="APLang/Authorization AP Lit 201718 GA Home School.pdf">College Board AP Lang Authorization Letter</a>
         <div class="clear"></div>
-      </div>
+      </div> -->
 		</div>

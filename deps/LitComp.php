@@ -21,7 +21,7 @@
 
     <p>Optional summer reading can add extra credit and cover August classwork if parents desire to start the course before Labor Day. See list and plan here: <a href="summer_reading.html">Summer Reading</a>.</p>
 
-    <p>Required Texts: Perrine's Literature: Structure, Sound, and Sense (ISBN 0155511084) and Outcasts United (ISBN 97803855222045)</p>
+    <p>Required Texts: Perrine's <i>Literature: Structure, Sound, and Sense</i> (ISBN 0155511084) and <i>Outcasts United</i> (ISBN 97803855222045)</p>
 
     <p>
     Tuition:

@@ -26,7 +26,8 @@
 				<li><a href="index.html">Home</a></li>
 				<li><a href="faq.html">FAQ</a></li>
 				<li><a href="contact_M.html">Connect</a></li>
-        <li><a href="classes1920.html">2019-20 Classes</a></li>
+        <!-- <li><a href="classes1920.html">2019-20 Classes</a></li> -->
+        <li><a href="classes2021.html">2020-21 Classes</a></li>
         <!-- <li><a href="summer_writing.html">Summer Writing</a></li> -->
 				<li><a href="summer_reading.html">Reading List</a></li>
 				<!-- <li><a href="tutoring.html">Student Tutoring</a></li> -->
