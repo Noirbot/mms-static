@@ -196,7 +196,7 @@
                         </dl>
                         <hr/>
                         <p>
-                            The complete reading list, including instructions, is here: <a target="_blank" href="GeneralDoc/1920SummerReadingMay19.pdf">2019 Summer Reading</a>
+                            The complete reading list, including instructions, is here: <a target="_blank" href="GeneralDoc/2021SummerReading.pdf">2020-21 Summer Reading</a>
                         </p>
                     </div>
                     <div class="clear"></div><?php include('deps/footer.php'); ?>

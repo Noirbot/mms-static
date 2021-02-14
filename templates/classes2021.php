@@ -23,30 +23,35 @@
     <th width="10%"> </th>
     <th width="30%" align="center"> <h2>Mon at <a target="_blank" href="http://www.metroacademicstudies.com/">MAS</a></h2> </th>
     <th width="30%" align="center"> <h2>Tue at <a target="_blank" href="http://www.eastsideacademicstudies.com">Eastside</a></h2> </th>
+    <th width="30%" align="center"> <h2>Wed at <a target="_blank" href="http://www.eastsideacademicstudies.com">Eastside</a></h2> </th>
     <th width="30%" align="center"> <h2>Thu at <a target="_blank" href="http://www.eastsideacademicstudies.com">Eastside</a></h2> </th>
   </tr>
   <tr>
     <td>9:00</td>
     <td><a href="classes2021.html#LitComp">Multicultural Lit</a></td>
-    <td><a href="classes2021.html#BL">British Lit</a></td>
+    <td></td>
+    <td><a href="classes2021.html#APLang">AP Lang</a> ONLINE - 10:00-12:30</td>
     <td><a href="classes2021.html#LitComp">Multicultural Lit</a></td>
   </tr>
   <tr>
     <td>10:45</td>
     <td><a href="classes2021.html#APLang">AP Lang</a></td>
-    <td><a href="classes2021.html#BL">British Lit</a>, cont until 12:00</td>
+    <td></td>
+    <td><a href="classes2021.html#APLang">AP Lang</a> ONLINE - 10:00-12:30</td>
     <td></td>
   </tr>
   <tr>
     <td>12:15</td>
     <td><em>Lunch</em></td>
     <td><em>Lunch</em></td>
+    <td><a href="classes2021.html#APLang">AP Lang</a> ONLINE - 10:00-12:30</td>
     <td><em>Lunch</em></td>
   </tr>
   <tr>
     <td>12:45</td>
     <td><a href="classes2021.html#APLang">AP Lang</a>, cont until 2:00</td>
     <td><a href="classes2021.html#APLang">AP Lang</a></td>
+    <td></td>
     <td><a href="classes2021.html#LitComp">Multicultural Lit</a></td>
   </tr>
   <tr>
@@ -54,12 +59,11 @@
     <td></td>
     <td><a href="classes2021.html#APLang">AP Lang</a>, cont until 3:45</td>
     <td></td>
+    <td></td>
   </tr>
 </table>
 
   <br />
-  <a name="BL">  </a>    <?php include('deps/BritishLit.php');?>
-  <hr/>
   <a name="LitComp">  </a>  <?php include('deps/LitComp.php');?>
   <hr/>
   <a name="APLang">  </a> <?php include('deps/APLang.php');?>

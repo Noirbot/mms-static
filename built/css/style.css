@@ -13,6 +13,11 @@ body {
 	background-repeat: repeat-x;
 }
 
+.schedule {
+	width: 100%;
+	table-layout: fixed;
+}
+
 .schedule > tbody > tr > td {
   font-size: 16px;
 }
