@@ -25,11 +25,11 @@
       <p>Want to visit a class? Please drop into any of Margaret's classes at any time. </p>
 
       <p class="clear">
-        Tuition: Information To Come for 2021-2022.
-        <!-- <ul>
-          <li>Eastside - $80 per month, Sept-May</li>
-          <li>MAS - $90 per month, Sept-May</li>
-        </ul> -->
+        Tuition info available on the respective sites:
+        <ul>
+          <li><a href="https://www.eastsideacademicstudies.com/Home/Instructor/mshuman" >Eastside</a></li>
+          <li><a href="https://www.metroacademicstudies.com/Home/Instructor/MShuman">MAS</a></li>
+        </ul>
         <br/>
       </p>
       <p class="clear">
@@ -39,14 +39,9 @@
         <br/> -->
         May national AP test fee and books not included in price of class. Books may be acquired used or at a special group rate that instructor will arrange.
       </p>
-
       <div style="font-weight:bold;" class="clear">
         <img src="images/arrow.png" alt="" width="16" height="16" border="0" />
-        <a target="_blank"  href="APLit/1718 AP Lit formal desc Mar.pdf">Formal Course Description</a>
-      </div>
-      <div style="font-weight:bold;" class="clear">
-        <img src="images/arrow.png" alt="" width="16" height="16" border="0" />
-        <a target="_blank"  href="APLit/Syllabus AP Lit 1718 Mar.pdf">Syllabus</a>
+        <a target="_blank"  href="APLit/Syllabus AP Lit 21.pdf">Syllabus</a>
       </div>
 
     </div>
