@@ -17,7 +17,7 @@
                         <div>
                             <p>
                                 <a target="_blank" href="GeneralDoc/2122SummerReading.pdf">
-                                    <span style="font-size: 20px; font-weight:bold;">Download 2021-22 Reading List</span>
+                                    <span style="font-size: 20px; font-weight:bold;">Download Reading List</span>
                                 </a>
                             </p>
                         </div>
@@ -34,7 +34,7 @@
                             <p>
                                 Books are chosen for their interest and integrity; many are nonfiction and students have found them to be well worth their time. Students starting class in the fall can enter with up to 300 points of credit to be added into their first semester scores, and can keep reading through the year if they'd like. Note that there are varying points assigned to each piece of literature so that you can add up what your goal may be.
                             </p><br>
-                            <p>Those wishing to learn about honors reading credit can find more information here: <a href="GeneralDoc/Honors Credit Directions 1920.pdf">Honors Details</a></p> <br/>
+                            <p>Those wishing to learn about honors reading credit can find more information here: <a href="GeneralDoc/Honors Credit Directions 22.pdf">Honors Details</a></p> <br/>
                             <p>
                                 TO GET CREDIT: Please drop me an email at <a href="mailto:shumanhw@gmail.com">shumanhw@gmail.com</a> or through Gradebook and let me know when you have completed a book. We&#39;ll set up a few minutes to discuss the book by phone. It&#39;s easy!
                             </p><br>
@@ -210,7 +210,7 @@
                         </dl>
                         <hr/>
                         <p>
-                            The complete reading list, including instructions, is here: <a target="_blank" href="GeneralDoc/2122SummerReading.pdf">2021-22 Summer Reading</a>
+                            The complete reading list, including instructions, is here: <a target="_blank" href="GeneralDoc/2122SummerReading.pdf">Reading List</a>
                         </p>
                     </div>
                     <div class="clear"></div><?php include('deps/footer.php'); ?>
