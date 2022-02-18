@@ -20,15 +20,15 @@
     Tuition info available at the <a target="_blank" href="http://www.metroacademicstudies.com/">MAS</a> website.
     </p>
 
+    <div style="font-weight:bold;" class="clear">
+      <img src="images/arrow.png" alt="" width="16" height="16" border="0" />
+      <a target="_blank" href="BritishLit/22 BL formal course descrip.pdf">Formal Course Description</a>
+    </div>
+    <div style="font-weight:bold;" class="clear">
+      <img src="images/arrow.png" alt="" width="16" height="16" border="0" />
+      <a target="_blank" href="BritishLit/22 Syllabus Brit Lit.pdf">Syllabus</a>
+    </div>
     <!-- <div style="font-weight:bold;" class="clear">
-      <img src="images/arrow.png" alt="" width="16" height="16" border="0" />
-      <a target="_blank" href="BritishLit/1718 BL formal course description.pdf">Formal Course Description</a>
-    </div>
-    <div style="font-weight:bold;" class="clear">
-      <img src="images/arrow.png" alt="" width="16" height="16" border="0" />
-      <a target="_blank" href="BritishLit/Syllabus Brit Lit 1718.pdf">Syllabus</a>
-    </div>
-    <div style="font-weight:bold;" class="clear">
       <img src="images/arrow.png" alt="" width="16" height="16" border="0" />
       <a target="_blank" href="GeneralDoc/Honors Credit Directions 22.pdf">Honors Details</a>
     </div> -->

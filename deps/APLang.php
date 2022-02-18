@@ -28,7 +28,7 @@
       <p>
         May national AP test fee and books not included in price of class. Books may be acquired used or at a special group rate that instructor will arrange. <br/><br/>
       </p>
-<!-- 
+
 			<div style="font-weight:bold;">
         <img src="images/arrow.png" alt="" width="16" height="16" border="0" />
 			  <a target="_blank" href="APLang/2020 AP Eng Lang formal descr.pdf">Formal Course Description</a>
@@ -36,12 +36,12 @@
       </div>
       <div style="font-weight:bold;">
         <img src="images/arrow.png" alt="" width="16" height="16" border="0" />
-			  <a target="_blank" href="APLang/2020 Syllabus AP Lang.pdf">Syllabus</a>
+			  <a target="_blank" href="APLang/22 Syllabus AP Lang.pdf">Syllabus</a>
         <div class="clear"></div>
-      </div> -->
+      </div>
       <!-- <div style="font-weight:bold;">
         <img src="images/arrow.png" alt="" width="16" height="16" border="0" />
 			  <a target="_blank" href="APLang/Authorization AP Lit 201718 GA Home School.pdf">College Board AP Lang Authorization Letter</a>
         <div class="clear"></div>
-      </div> -->
+      </div>
 		</div>
