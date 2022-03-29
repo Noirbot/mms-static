@@ -29,7 +29,7 @@
     <td>9:00</td>
     <td><a href="classes2223.html#LitComp">Multicultural Lit</a></td>
     <td></td>
-    <td></td>
+    <td><a href="classes2223.html#BritLit">British Lit</a></td>
   </tr>
   <tr>
     <td>10:45</td>
