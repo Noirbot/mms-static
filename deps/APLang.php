@@ -39,6 +39,10 @@
 			  <a target="_blank" href="APLang/22 Syllabus AP Lang.pdf">Syllabus</a>
         <div class="clear"></div>
       </div>
+    <div style="font-weight:bold;" class="clear">
+      <img src="images/arrow.png" alt="" width="16" height="16" border="0" />
+      <a target="_blank" href="GeneralDoc/Shuman Parent Notes 22-23.pdf">2022-23 Parent Notes</a>
+    </div>
       <!-- <div style="font-weight:bold;">
         <img src="images/arrow.png" alt="" width="16" height="16" border="0" />
 			  <a target="_blank" href="APLang/Authorization AP Lit 201718 GA Home School.pdf">College Board AP Lang Authorization Letter</a>

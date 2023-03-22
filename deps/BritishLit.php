@@ -33,6 +33,10 @@
       <img src="images/arrow.png" alt="" width="16" height="16" border="0" />
       <a target="_blank" href="BritishLit/22 Syllabus Brit Lit.pdf">Syllabus</a>
     </div>
+    <div style="font-weight:bold;" class="clear">
+      <img src="images/arrow.png" alt="" width="16" height="16" border="0" />
+      <a target="_blank" href="GeneralDoc/Shuman Parent Notes 22-23.pdf">2022-23 Parent Notes</a>
+    </div>
     <!-- <div style="font-weight:bold;" class="clear">
       <img src="images/arrow.png" alt="" width="16" height="16" border="0" />
       <a target="_blank" href="GeneralDoc/Honors Credit Directions 22.pdf">Honors Details</a>

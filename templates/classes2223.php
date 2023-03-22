@@ -47,13 +47,13 @@
     <td>12:45</td>
     <td></td>
     <td><a href="classes2223.html#APLang">AP Lang</a></td>
-    <td></td>
+    <td><a href="classes2223.html#APLang">AP Lang</a></td>
   </tr>
   <tr>
     <td>2:30</td>
     <td></td>
     <td><a href="classes2223.html#APLang">AP Lang</a>, cont until 3:45</td>
-    <td></td>
+    <td><a href="classes2223.html#APLang">AP Lang</a>, cont until 3:45</td>
   </tr>
 </table>
 
