@@ -5,20 +5,21 @@
       <p>DOE course code: 23.06500 </p> <br />
       <p>One core credit </p> <br />
       <p>One weekly class with two 90-min periods</p>
-      <p>Prerequisites: At least a B in two previous high-school level English classes and motivation to do college-level work.</p>
+      <p>Prerequisites: At least a B in two previous high-school-level English classes and motivation to do college-level work.</p>
       <br />
 
-      <p>This seminar-style course provides an opportunity for students to dig into literature in an analytical way, writing about and discussing the content and context of classic works. Through study of writing techniques, literary terms, and backgrounds of literature from various centuries and cultures, students investigate literary analysis and learn to navigate through some of the powerful worldviews of history, from Greek to African to European, and from existentialist to feminist to Christian. Discussion, research, mapping, and analytical writing lead to drafts and revisions of essays and explications, and study of past AP exams makes the optional, national May exam more friendly to the student. Despite this serious description, students actually enjoy the give and take in the discussions and the chance to dig deeply into interesting material. Much of the class is interactive and hands-on. Optional summer reading can add extra credit.
+      <p>This seminar-style course provides an opportunity for students to dig into fiction in an analytical way, writing about and discussing the content and context of classic works. Through study of writing techniques, literary terms, and backgrounds of literature from various centuries and cultures, students investigate literary strategies and learn to navigate through some of the powerful worldviews of history, from Greek to African to European, and from existentialist to feminist to Christian. Students engage in discussion, research, and writing. Study of past AP exams makes the optional, national May exam more friendly to the student.</p>
+      <p>Despite this serious description, students actually enjoy the give and take in the discussions and the chance to dig deeply into interesting material. Much of the class is interactive and hands-on. Optional summer reading can add extra credit, starting in summer.
           </p>
 
       <p>Texts: Perrine's <i>Literature: Structure, Sound, and Sense</i> (ISBN 0155511084) and classic literature such as
-      <i>Antigone</i>;
       <i>Othello*</i>;
       <i>Doll's House</i>*;
       <i>Cry, the Beloved Country</i>;
       <i>The Plague</i>;
       <i>One Day in the Life of Ivan Denisovich</i>;
-      <i>The Glass Menagerie</i>*;
+      <i>Things Fall Apart</i>;
+      <i>Rosencrantz and Guildenstern Are Dead</i>;
       <i>Death of a Salesman</i>*.
       (*included in Perrine text, which is cheap to purchase used online or from previous Multicultural Lit students)</p>
 
@@ -37,12 +38,16 @@
         <br/>
         Take $5 off per month per student for families who have enrolled at least one student in a Shuman course in the past.
         <br/> -->
-        May national AP test fee and books not included in price of class. Books may be acquired used or at a special group rate that instructor will arrange.
+        May national AP test fee and books not included in price of class.
       </p>
       <div style="font-weight:bold;" class="clear">
         <img src="images/arrow.png" alt="" width="16" height="16" border="0" />
         <a target="_blank"  href="APLit/Syllabus AP Lit 21.pdf">Syllabus</a>
       </div>
+      <div style="font-weight:bold;" class="clear">
+      <img src="images/arrow.png" alt="" width="16" height="16" border="0" />
+      <a target="_blank" href="GeneralDoc/Shuman Parent Notes 22-23.pdf">2022-23 Parent Notes</a>
+    </div>
 
     </div>
   </div>

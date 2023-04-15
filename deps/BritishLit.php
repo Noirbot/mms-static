@@ -8,9 +8,9 @@
     <p>One core credit </p>  <br />
     <p>One 90-min class, weekly</p>
 
-    <p>This is a great class for those who normally don't enjoy literature: there is plenty of action in Anglo-Saxon, Medieval, and Renaissance works, for example. The lit survey covers historical works and authors that every student should be familiar with before graduation&mdash;from <i>Beowulf</i> to <i>Canterbury Tales</i> to Wordsworth and T.S. Eliot. Students learn to read, analyze, and write about various styles of great literature, all of which were hits in their time and are still wonderful today. Class discussions often lead into the "great world of ideas," and on-our-feet activities keep the class time moving and interactive. Role playing, illustrating, intelligent games, videos, and group work add variety to text study. The mock trial of Victor Frankenstein is often one of spring's activities. A final research project focuses on a modern author chosen by individual students, who then get to practice creative, visual ways to teach the class themselves.
+    <p>This is a great class for those who normally don't enjoy literature: there is plenty of action in Anglo-Saxon, Medieval, and Renaissance works, for example. The lit survey covers historical works and authors that every student should be familiar with before graduation&mdash;from <i>Beowulf</i> to <i>Canterbury Tales</i> to Wordsworth and T.S. Eliot. Students learn to read, analyze, and write about various styles of great literature, all of which were hits in their time and are still wonderful today. Class discussions often lead into the "great world of ideas," and on-our-feet activities keep the class time moving and interactive. Role playing, illustrating, intelligent games, videos, and group work add variety to text study. The mock trial of Victor Frankenstein is often one of spring's activities.
     </p>
-    <p>Text: <em>TBA--will be confirmed over the summer.</em></p>
+    <p>Text: <em>England in Literature</em>, Scott Foresman, ISBN 0673129225. Digital copies are loaned out for the year in lieu of printed copies. Also, an unabridged copy of <em>Frankenstein</em> is needed in the spring.</p>
 
     <p>Optional reading can add extra credit and/or honors credit. See list and plan here: <a href="reading_list.html">Reading List</a></p>
 
