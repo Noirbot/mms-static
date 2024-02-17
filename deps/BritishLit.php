@@ -6,24 +6,20 @@
     <p>Grades: 10-12, 9 with permission of instructor </p> <br />
     <p>DOE course number: 23.05200</p>  <br />
     <p>One core credit </p>  <br />
-    <p>One 90-min class, weekly</p>
+    <p>One weekly class with two 90-min sections</p><br />
 
-    <p>This is a great class for those who normally don't enjoy literature: there is plenty of action in Anglo-Saxon, Medieval, and Renaissance works, for example. The lit survey covers historical works and authors that every student should be familiar with before graduation&mdash;from <i>Beowulf</i> to <i>Canterbury Tales</i> to Wordsworth and T.S. Eliot. Students learn to read, analyze, and write about various styles of great literature, all of which were hits in their time and are still wonderful today. Class discussions often lead into the "great world of ideas," and on-our-feet activities keep the class time moving and interactive. Role playing, illustrating, intelligent games, videos, and group work add variety to text study. The mock trial of Victor Frankenstein is often one of spring's activities.
-    </p>
+    <p>This is a great class for those who normally don't enjoy literature: there is plenty of action in Anglo-Saxon, Medieval, and Renaissance works, for example. The lit survey covers historical works and authors that every student should be familiar with before graduation&mdash;from <em>Beowulf</em> to <em>Canterbury Tales</em> and <em>Hamlet</em>, and from Shakespeare to Moderns like Mary Shelley and T.S. Eliot.</p>
+
+    <p>Students learn to read, analyze, and write about various styles of great literature, all of which were hits in their time period and are still wonderful stories today. Class discussions often lead into the "great world of ideas," and on-our-feet activities keep the class time moving and interactive. Role playing, illustrating, expressive reading, informal debate, and many types of group work add variety to text study. A mock trial of Victor Frankenstein is often one of spring's activities.</p>
+
     <p>Text: <em>England in Literature</em>, Scott Foresman, ISBN 0673129225. Digital copies are loaned out for the year in lieu of printed copies. Also, an unabridged copy of <em>Frankenstein</em> is needed in the spring.</p>
 
     <p>Optional reading can add extra credit and/or honors credit. See list and plan here: <a href="reading_list.html">Reading List</a></p>
 
-    <p>Would you like to meet up and talk about this class? Contact Margaret at shumanhw@gmail.com. We can meet for a walk or for coffee/tea at a location that works for us both! You can also visit any Shuman class with or without your student, any time. See current teaching schedule at MargaretShuman.com</p>
+    <p>Would you like to meet up and talk about this class? Contact Margaret at shumanhw@gmail.com. We can meet for a walk or for coffee/tea at a location that works for us both! You can also visit any Shuman class with or without your student, any time.</p>
 
-    <p>
-    Tuition info available on the respective sites:
-        <ul>
-          <li><a href="https://www.eastsideacademicstudies.com/Home/Instructor/mshuman" >Eastside</a></li>
-          <li><a href="https://www.metroacademicstudies.com/Home/Instructor/MShuman">MAS</a></li>
-        </ul>
-        <br/>
-    </p>
+    <p>Tuition: $100 per month, Aug-Apr. Tuition includes instructor's admin fees, guest speaker/actor fees, and supplies.</p>
+    <p>For further information on discounts and to enroll, visit the <a href="https://www.eastsideacademicstudies.com/Home/Instructor/mshuman" >Eastside Website</a></p>
 
     <div style="font-weight:bold;" class="clear">
       <img src="images/arrow.png" alt="" width="16" height="16" border="0" />
