@@ -6,21 +6,9 @@
 			<p>One elective credit </p> <br />
       <p>One weekly 60-min class</p>
 
+			<p>We will all <strong>sharpen our creativity</strong> by playing theatre games and developing spontaneous scenes based on improvised situations. Viola Spolin's improvisation techniques will make us more sensitive to how our senses interact with our surroundings. Robert Cohen's acting theory will lead us through the foundational concepts of victory, obstacle, and tactics where we will utilize content-less lines as well as scenes from traditional theatre. In addition, we will investigate common theatre practices such as blocking, eating stage food, faking fights, and staying in character. To build a good space to do all of this, we will build an environment where the introvert (your teacher) and the extrovert (you or your friends!) will each have a safe place to try new things. This will take <strong>cooperation, leadership, and organization</strong> which can all transfer to real life.</p>
 
-			<p>Need to de-stress after a long week of classes? Join us for improv and scene study that will stretch your observation, concentration, and imagination!</p>
-      <p>Objectives:</p>
-      <ol>
-        <li>Sharpen observation and reaction skills by playing theatre games and participating in warm up activities.</li>
-        <li>Study and practice Robert Cohen's foundational acting concepts of victory, obstacle, and tactics.</li>
-        <li>Develop scenes based on spontaneous situations</li>
-        <li>Interact with content-less scenes as well as scenes from traditional theatre.</li>
-        <li>Investigate common theatre practices such as blocking movement, eating stage food, fighting, and staying in character.</li>
-        <li>Strengthen skills that encourage others and build a safe acting space.</li>
-        <li>Learn cooperation, leadership, and organizational techniques.</li>
-        <li>Attend at least one educational or professional production per semester.</li>
-        <li>Read at least one complete play script per semester outside of class and discuss it in class.</li>
-        <li>Understand use of a contract for fulfilling course objectives and creating a grade.</li>
-      </ol>
+      <p>Students will learn to work with a class contract to fulfill course objectives and determine the grade they want to achieve through not only attending classes regularly, but going to at least one professional production and reading two full-length play scripts per semester. Students will volunteer with set dressing, managing, or performing in the fall talent show as well as participating in another Eastside event in the spring.</p>
 
       <p>Would you like to meet up and talk about this class? Contact Margaret at shumanhw@gmail.com or text at 678-772-1644. We can meet for a walk or for coffee/tea at a location that works for us both! You can also visit any Shuman class with or without your student, any time. </p>
 

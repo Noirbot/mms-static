@@ -28,7 +28,7 @@
 				<li><a href="contact_M.html">Connect</a></li>
         <!-- <li><a href="classes1920.html">2019-20 Classes</a></li> -->
         <!-- <li><a href="classes2223.html">2022-23 Classes</a></li> -->
-        <li><a href="classes2324.html">2023-24 Classes</a></li>
+        <li><a href="classes2425.html">2024-25 Classes</a></li>
         <!-- <li><a href="classes2122.html">2021-22 Classes</a></li> -->
         <!-- <li><a href="summer_writing.html">Summer Writing</a></li> -->
 				<li><a href="reading_list.html">Reading List</a></li>
@@ -36,7 +36,7 @@
 				<li><a href="coaching.html">Coaching</a></li>
 				<!-- <li><a href="sat_prep.html">SAT Prep</a></li> -->
 				<!-- <li><a href="panel_discussions.html">Panels </a></li> -->
-        <li><a href="GeneralDoc/MARGARET SHUMAN 2017.pdf">Resume</a></li>
+        <li><a href="GeneralDoc/resume24.pdf">Resume</a></li>
 				</ul>
             <div class="clear"></div>
           </div>
