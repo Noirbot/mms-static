@@ -18,21 +18,13 @@
       <i>Cry, the Beloved Country</i>;
       <i>The Plague</i>;
       <i>One Day in the Life of Ivan Denisovich</i>;
-      <i>Things Fall Apart</i>;
-      <i>Rosencrantz and Guildenstern Are Dead</i>;
+      <i>Till We Have Faces</i>;
       <i>Death of a Salesman</i>*.
       (*included in Perrine text, which is cheap to purchase used online or from previous Multicultural Lit students)</p>
 
       <p>Want to visit a class? Please drop into any of Margaret's classes at any time. </p>
 
-      <p class="clear">
-        Tuition info available on the respective sites:
-        <ul>
-          <li><a href="https://www.eastsideacademicstudies.com/Home/Instructor/mshuman" >Eastside</a></li>
-          <li><a href="https://www.metroacademicstudies.com/Home/Instructor/MShuman">MAS</a></li>
-        </ul>
-        <br/>
-      </p>
+      <p>For further information on discounts and to enroll, visit the <a href="https://www.eastsideacademicstudies.com/Home/Instructor/mshuman" >Eastside Website</a></p>
       <p class="clear">
         <!-- Take $5 off per month per student for families with multiple students enrolled in Shuman courses in a current year.
         <br/>
@@ -42,11 +34,11 @@
       </p>
       <div style="font-weight:bold;" class="clear">
         <img src="images/arrow.png" alt="" width="16" height="16" border="0" />
-        <a target="_blank"  href="APLit/Syllabus AP Lit 21.pdf">Syllabus</a>
+        <a target="_blank"  href="APLit/Syllabus AP Lit 25.pdf">Syllabus</a>
       </div>
       <div style="font-weight:bold;" class="clear">
       <img src="images/arrow.png" alt="" width="16" height="16" border="0" />
-      <a target="_blank" href="GeneralDoc/Shuman Parent Notes 23-24.pdf">2023-24 Parent Notes</a>
+      <a target="_blank" href="GeneralDoc/Shuman Parent Notes 24-25.pdf">Parent Notes</a>
     </div>
 
     </div>

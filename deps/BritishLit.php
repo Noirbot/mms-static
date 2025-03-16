@@ -18,7 +18,7 @@
 
     <p>Would you like to meet up and talk about this class? Contact Margaret at shumanhw@gmail.com. We can meet for a walk or for coffee/tea at a location that works for us both! You can also visit any Shuman class with or without your student, any time.</p>
 
-    <p>Tuition: $100 per month, Aug-Apr. Tuition includes instructor's admin fees, guest speaker/actor fees, and supplies.</p>
+    <p>Tuition: $90 per month, Aug-Apr. Tuition includes instructor's admin fees, guest speaker/actor fees, and supplies.</p>
     <p>For further information on discounts and to enroll, visit the <a href="https://www.eastsideacademicstudies.com/Home/Instructor/mshuman" >Eastside Website</a></p>
 
     <div style="font-weight:bold;" class="clear">
@@ -31,7 +31,7 @@
     </div>
     <div style="font-weight:bold;" class="clear">
       <img src="images/arrow.png" alt="" width="16" height="16" border="0" />
-      <a target="_blank" href="GeneralDoc/Shuman Parent Notes 23-24.pdf">2023-24 Parent Notes</a>
+      <a target="_blank" href="GeneralDoc/Shuman Parent Notes 24-25.pdf">Parent Notes</a>
     </div>
     <!-- <div style="font-weight:bold;" class="clear">
       <img src="images/arrow.png" alt="" width="16" height="16" border="0" />

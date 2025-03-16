@@ -2,11 +2,12 @@
   <h6>Multicultural Literature and Composition* (ML)</h6>
   <div>
     <img src="pictures/storyboard34.jpg" alt="" width="300" height="225" class="project-img" />
+    <p>[possible American Lit substitution]*</p>
     <p>Learn about "Honors" option here: <a href="GeneralDoc/Honors Credit Directions 22.pdf">Honors Details</a></p> <br/>
     <p>*Class may be renamed. Instructor can work with parents on requirements to fit transcript needs.</p><br />
     <p>Grades: 9-12</p> <br />
     <p>One core credit </p> <br />
-    <p>DOE course codes: 23.06100, 23.06200, 23.06700* </p>
+    <p>DOE course codes: 23.05100, 23.06100, 23.06200, 23.06400, 23.06600, 23.06700* </p>
     <p>One 120-min class meets weekly and includes break times.</p>
 
     <p>This is a great class for students who think they don't like English classes, and/or students who are up for learning a variety of college and life skills in addition to traditional writing and reading. ML is an active class that takes place in an encouraging environment. The skills of literary analysis, writing, and speech are taught simultaneously since much of the structure and style of oral and written communication are complementary. </p>
@@ -39,7 +40,7 @@
     </div>
     <div style="font-weight:bold;" class="clear">
       <img src="images/arrow.png" alt="" width="16" height="16" border="0" />
-      <a target="_blank" href="GeneralDoc/Shuman Parent Notes 23-24.pdf">2023-24 Parent Notes</a>
+      <a target="_blank" href="GeneralDoc/Shuman Parent Notes 24-25.pdf">Parent Notes</a>
     </div>
     <!-- <div style="font-weight:bold;" class="clear">
       <img src="images/arrow.png" alt="" width="16" height="16" border="0" />

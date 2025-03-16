@@ -29,7 +29,7 @@
       </div>
     <div style="font-weight:bold;" class="clear">
       <img src="images/arrow.png" alt="" width="16" height="16" border="0" />
-      <a target="_blank" href="GeneralDoc/Shuman Parent Notes 23-24.pdf">2023-24 Parent Notes</a>
+      <a target="_blank" href="GeneralDoc/Shuman Parent Notes 24-25.pdf">Parent Notes</a>
     </div> -->
       <!-- <div style="font-weight:bold;">
         <img src="images/arrow.png" alt="" width="16" height="16" border="0" />
