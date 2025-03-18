@@ -24,8 +24,7 @@
 
     <p>Required Text: Perrine's <em>Literature: Structure, Sound, and Sense</em> (ISBN 0155511084), available used online or from previous ML and AP Lit students</p>
 
-    <p>Tuition: $90 per month, Aug-Apr. Tuition includes instructor's admin fees, guest speaker/actor fees, and supplies.</p>
-    <p>For further information on discounts and to enroll, visit the <a href="https://www.eastsideacademicstudies.com/Home/Instructor/mshuman" >Eastside Website</a></p>
+    <p>For information on prices and to enroll, visit the <a href="https://www.eastsideacademicstudies.com/Home/Instructor/mshuman" >Eastside Website</a></p>
     <div class="clear"></div>
 
     <p>Would you like to meet up and talk about this class? Contact Margaret at shumanhw@gmail.com or text at 678-772-1644. We can meet for a walk or for coffee/tea at a location that works for us both! You can also visit any Shuman class with or without your student, any time.</p>

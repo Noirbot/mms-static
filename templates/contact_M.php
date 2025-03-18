@@ -22,12 +22,12 @@
        <br />
 	   <ul id="connect">
       <li> Observe classes anytime during the school year. </li>
-      <li> Call her at 678-772-1644.</li>
+      <li> Text her at 678-772-1644.</li>
       <li>
         Schedule an appointment. Open houses, panels, and class times may be too busy for a long conversation, so plan a visit with Margaret at a library or coffee shop.
-        Drop her a note via <a href="mailto:shumanhw@gmail.com">email</a> or call her at 678-772-1644.
+        Drop her a note via <a href="mailto:shumanhw@gmail.com">email at shumanhw@gmail.com</a> or text her at 678-772-1644.
      </li>
-     <li>Attend open houses, parent meetings, class fairs, and other events at each location. </li>
+     <li>Attend open houses, parent meetings, class fairs, and other events via the teaching locations. </li>
     </ul>
 	<div class="clear"></div>
 	</div>

@@ -17,7 +17,7 @@
   <div class="mid">
 
 <div style="padding:30px">
-  <h3><a name="classes">2024-25 Classes at Eastside</a> </h3>
+  <h3><a name="classes">2025-26 Classes at Eastside</a> </h3>
   <br />
   <a name="LitComp">  </a>  <?php include('deps/LitComp.php');?>
   <hr/>

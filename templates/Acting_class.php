@@ -1,9 +1,10 @@
 <?php include('deps/m_header.php'); ?>
             <h1> Acting & Improvisation  </h1>
             <ul>
-              <li> Seminar-style environment, great discussions </li>
-              <li> High-interest literature and contemporary media </li>
-              <li> Sharpened writing skills and boosted GPAs </li>
+              <li> Interactive theatre games and improvs </li>
+              <li> Upbeat and cooperative class time </li>
+              <li> Reasonable, creative homework </li>
+              <li> One elective credit for transcript </li>
             </ul>
 
            </div>
