@@ -25,7 +25,7 @@
   <hr/>
   <a name="BritLit">  </a> <?php include('deps/BritishLit.php');?>
   <hr/>
-  <a name="Acting">  </a> <?php include('deps/Acting.php');?>
+  <a name="Acting/Improv">  </a> <?php include('deps/Acting.php');?>
 
 </div>
 

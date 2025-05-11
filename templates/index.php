@@ -26,7 +26,7 @@
 			<tr>
 			<td align="center"> <a href="LitComp_class.html"><h2>Multicultural Lit &amp; Comp</h2></a></td>
 			<td align="center"> <a href="BritLit_class.html"><h2>British Literature </h2> </a></td>
-			<td align="center"> <a href="Acting_class.html"><h2>Acting</h2></a></td>
+			<td align="center"> <a href="Acting_class.html"><h2>Acting/Improv</h2></a></td>
 			</tr>
 			<tr>
 			<td><img src="pictures/Red table ladies.jpg" alt="" width="240" height="170" style="float:center; " /></td>
@@ -36,10 +36,12 @@
 			<tr>
 			<td align="center"> <a href="APLit_class.html"><h2>AP Literature</h2></a></td>
 			<td align="center"> <a href="APLang_class.html"><h2>AP Language</h2></a></td>
+			<td align="center"> <a href="reading_list.html"><h2>Reading List</h2></a></td>
 			</tr>
 			<tr>
 			<td><img src="pictures/Green wall classroom.jpg" alt="" width="240" height="170" style="float:center; margin:0px 0px 0px 0px;" /></td>
 			<td><img src="pictures/Shem and Anna.jpg" alt="" width="240" height="170" style="float:left; margin:0px 0px 0px 0px;" /></td>
+			<td><img src="pictures/books%20FF.JPG" alt="" width="240" height="170" style="float:left; margin:0px 0px 0px 0px;" /></td>
 			</tr>
 		</table>
 
